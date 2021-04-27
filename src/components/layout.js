@@ -39,7 +39,7 @@ const Layout = ({ children }) => {
             marginTop: `2rem`,
           }}
         >
-          © {new Date().getFullYear()}, Built by Joseph D Jordan
+          © {new Date().getFullYear()}, Built by
           {` `}
           <a href="https://josephdjordan.com">Joseph D Jordan</a>
         </footer>
